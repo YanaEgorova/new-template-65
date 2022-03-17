@@ -108,9 +108,7 @@
     .logo {
         font-size: 2.2rem;
     }
-    .nav__item:last-child {
-        display: none;
-    }
+  
     .nav__link {
         position: relative;
     }
